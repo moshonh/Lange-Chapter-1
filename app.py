@@ -349,7 +349,7 @@ def render_header():
 def tab_study_guide():
     st.markdown("## &#128218; Study Guide &#8212; Chapter 1: Neurologic History & Examination")
     st.caption("Source: *Clinical Neurology*, 10th Edition, Aminoff, Greenberg & Simon. Content extracted directly from Chapter 1.")
-   st.info("**How to use:** Work through each topic...", icon="💡")
+    st.info("**How to use:** Work through each topic...", icon="💡")
     st.markdown("---")
 
     # ── 1. History ──────────────────────────────────────────────
